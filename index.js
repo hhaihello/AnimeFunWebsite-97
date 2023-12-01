@@ -12,7 +12,7 @@ const myText = document.querySelector("h1");
 myButton1.addEventListener("click", function() {
   // Change the image src
   myImg.src = "https://media.tenor.com/4Bg3yiJZ3VAAAAAC/anime-kawaii.gif";
-  myText.innerHTML = "Ya hoo!! see ya tomorrow😍"
+  myText.innerHTML = "Ya hoo! see ya tomorrow 😍"
 });
 
 myButton2.addEventListener("click", function() {
